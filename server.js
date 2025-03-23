@@ -4,7 +4,7 @@ const shortid = require('shortid');
 const validUrl = require('valid-url');
 const app = express();
 const cron = require('node-cron');
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://sahilgala1234:galasahil@sociopedia.uatgf9y.mongodb.net/";
+const MONGODB_URI = process.env.MONGODB_URI
 
 app.use(express.json());
 
