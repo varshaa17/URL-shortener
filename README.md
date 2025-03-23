@@ -57,6 +57,9 @@ This is a simple URL shortener service built using Node.js, Express, and MongoDB
 
 A background job runs daily at midnight to remove expired URLs from the database.
 
+![WhatsApp Image 2025-03-23 at 17 03 01_e5fb06ff](https://github.com/user-attachments/assets/a3af64bc-04e2-4c24-ad02-c00f0a8b0ed9)
+
+
 ## Installation
 
 1. Clone the repository:
