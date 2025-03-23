@@ -61,7 +61,7 @@ A background job runs daily at midnight to remove expired URLs from the database
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/url-shortener.git
+   git clone [https://github.com/your-repo/url-shortener.git](https://github.com/varshaa17/URL-shortener)
    ```
 2. Navigate to the project folder:
    ```sh
