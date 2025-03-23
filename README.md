@@ -90,9 +90,5 @@ A background job runs daily at midnight to remove expired URLs from the database
 - Mongoose
 - Cron Jobs for cleanup
 
-## License
-
-This project is licensed under the MIT License.
-
 
 
